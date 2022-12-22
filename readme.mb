@@ -144,6 +144,7 @@ symfony console make:admin:crud
 
 installer node js (logiciel a chercher sur internet)
 composer require symfony/webpack-encore-bundle
+npm install --global yarn
 yarn install
 yarn add jquery
 yarn add sass-loader  sass --dev
